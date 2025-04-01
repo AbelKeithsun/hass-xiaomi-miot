@@ -242,7 +242,6 @@ TRANSLATION_LANGUAGES = {
         'sweep.suction_state': {
             'medium': '中档',
             'silent': '安静',
-            'slient': '安静',
             'standard': '标准',
             'turbo': '强力',
         },
